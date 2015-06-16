@@ -1,5 +1,5 @@
-Sive
-====
+NO LONGER SUPPORTED. USE AT YOUR OWN RISK.
+===
 
 A responsive design solution using javascript.
 
